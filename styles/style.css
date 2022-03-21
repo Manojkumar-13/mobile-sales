@@ -160,7 +160,7 @@ input[type= "submit"]{
   display: inline-block;
   border: none;
 }
-..contact-section .container .right-column iframe{
+.contact-section .container .right-column iframe{
   width: 100%;
   height:20rem;
 }
@@ -230,7 +230,7 @@ input[type= "submit"]{
   }
   .navbar .nav a.btn-primary{
     color: white;
-    border: 3px solid var(--primary-color;)
+    border: 3px solid var(--primary-color);
     font-weight:bold;
     border-radius:0.5rem;
     display:inline-block;
